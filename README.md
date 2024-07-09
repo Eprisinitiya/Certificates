@@ -35,12 +35,12 @@ Welcome to my certificates repository! Here, you will find a collection of my ce
 ### Issued by Oracle
 | No. | Certificate Name                                     | Issue Date | Verification Link                           | Key Learnings                                                    |
 |-----|------------------------------------------------------|------------|--------------------------------------------|------------------------------------------------------------------|
-| 1   | Oracle Cloud Data Management Foundations Associate   | Aug 2023   | [Verify Here]()          | - Data management principles<br>- Oracle Cloud services         |
+| 1   | Oracle Cloud Data Management Foundations Associate   | Aug 2023   | [Verify Here](https://drive.google.com/file/d/1KV1CqfxevNXhNaPnvGx3u_NMz-ZGu5k8/view?usp=sharing)          | - Data management principles<br>- Oracle Cloud services         |
 
 ### Issued by AWS
 | No. | Certificate Name                    | Issue Date | Verification Link                           | Key Learnings                                                     |
 |-----|-------------------------------------|------------|--------------------------------------------|-------------------------------------------------------------------|
-| 1   | AWS Cloud Quest                     | Nov 2023   | [Verify Here](verification_link13)          | - AWS cloud concepts<br>- Hands-on AWS services experience        |
+| 1   | AWS Cloud Quest                     | Nov 2023   | [Verify Here](https://drive.google.com/file/d/11UIF7dLJVD7W4XlY9JMmiJgMNJSxIgVZ/view?usp=sharing)          | - AWS cloud concepts<br>- Hands-on AWS services experience        |
 
 ### Issued by KIET Ghaziabad and Ministry of Science & Technology
 | No. | Certificate Name                    | Issue Date | Verification Link                           | Key Learnings                                                     |
@@ -50,7 +50,7 @@ Welcome to my certificates repository! Here, you will find a collection of my ce
 ### Issued by Alibaba
 | No. | Certificate Name                    | Issue Date | Verification Link                           | Key Learnings                                                     |
 |-----|-------------------------------------|------------|--------------------------------------------|-------------------------------------------------------------------|
-| 1   | Alibaba Certified Developer         | Mar 2024   | [Verify Here](verification_link14)          | - Alibaba cloud services<br>- Development using Alibaba Cloud     |
+| 1   | Alibaba Certified Developer         | Mar 2024   | [Verify Here](https://drive.google.com/file/d/1ocfYd-C8R2aB7QZjMZCABSmMvHV5vbEn/view?usp=sharing)          | - Alibaba cloud services<br>- Development using Alibaba Cloud     |
 
 ### Issued by GUVI IIT Madras
 | No. | Certificate Name                    | Issue Date | Verification Link                           | Key Learnings                                                    |
