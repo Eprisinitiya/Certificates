@@ -2,15 +2,6 @@
 
 Welcome to my certificates repository! Here, you will find a collection of my certifications, hackathon achievements, and challenge certificates. Each entry includes a link to verify the certificate.
 
-## Table of Contents
-1. [Certificates](#certificates)
-    1. [Issued by Google Cloud](#issued-by-google-cloud)
-    2. [Issued by MongoDB](#issued-by-mongodb)
-    3. [Issued by Oracle](#issued-by-oracle)
-    4. [Issued by AWS](#issued-by-aws)
-    5. [Issued by Alibaba](#issued-by-alibaba)
-    6. [Issued by GUVI IIT Madras](#issued-by-guvi-iit-madras)
-
 ## Certificates
 
 ### Issued by Google Cloud
@@ -64,6 +55,11 @@ Welcome to my certificates repository! Here, you will find a collection of my ce
 | No. | Certificate Name                    | Issue Date | Verification Link                           | Key Learnings                                                     |
 |-----|-------------------------------------|------------|--------------------------------------------|-------------------------------------------------------------------|
 | 1   | Skitech Hackathon         | Sept 2024   | [Verify Here](https://drive.google.com/file/d/1zJRflailCUKhBSGWo9GbwcaVZR9TwxQy/view?usp=sharing)          | - Implemented an innovative platform for Farmers and End-users,<br> which works on Farm to table box model    |
+
+### Issued by IET DAVV
+| No. | Certificate Name                    | Issue Date | Verification Link                           | Key Learnings                                                     |
+|-----|-------------------------------------|------------|--------------------------------------------|-------------------------------------------------------------------|
+| 1   | Hackvento Hackathon         | Oct 2023   | [Verify Here](https://drive.google.com/file/d/18qxQt-VTCkosFTenCPVa0rPxVQyRax8W/view?usp=sharing)          | - Build an platform for children mental health,<br> their assessment and treatment solution tools    |
 
 ### Issued by Alibaba
 | No. | Certificate Name                    | Issue Date | Verification Link                           | Key Learnings                                                     |
