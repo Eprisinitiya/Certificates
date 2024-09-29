@@ -60,6 +60,11 @@ Welcome to my certificates repository! Here, you will find a collection of my ce
 |-----|-------------------------------------|------------|--------------------------------------------|-------------------------------------------------------------------|
 | 1   | Innohacks 3.0 Hackathon         | Apr 2024   | [Verify Here](https://certificate.givemycertificate.com/c/98f404e2-a4cc-4fd2-a31a-640dfdae54be)          | - Build a platform for people who have problem <br> of Stuttering and Stammering    |
 
+### Issued by SKITM and UpGrad
+| No. | Certificate Name                    | Issue Date | Verification Link                           | Key Learnings                                                     |
+|-----|-------------------------------------|------------|--------------------------------------------|-------------------------------------------------------------------|
+| 1   | Skitech Hackathon         | Sept 2024   | [Verify Here](https://drive.google.com/file/d/1zJRflailCUKhBSGWo9GbwcaVZR9TwxQy/view?usp=sharing)          | - Implemented an innovative platform for Farmers and End-users,<br> which works on Farm to table box model    |
+
 ### Issued by Alibaba
 | No. | Certificate Name                    | Issue Date | Verification Link                           | Key Learnings                                                     |
 |-----|-------------------------------------|------------|--------------------------------------------|-------------------------------------------------------------------|
