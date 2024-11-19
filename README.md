@@ -51,6 +51,11 @@ Welcome to my certificates repository! Here, you will find a collection of my ce
 |-----|-------------------------------------|------------|--------------------------------------------|-------------------------------------------------------------------|
 | 1   | Innohacks 3.0 Hackathon         | Apr 2024   | [Verify Here](https://certificate.givemycertificate.com/c/98f404e2-a4cc-4fd2-a31a-640dfdae54be)          | - Build a platform for people who have problem <br> of Stuttering and Stammering    |
 
+### Issued by IIIT Vadodara
+| No. | Certificate Name                    | Issue Date | Verification Link                           | Key Learnings                                                     |
+|-----|-------------------------------------|------------|--------------------------------------------|-------------------------------------------------------------------|
+| 1   | Ideathon         | Nov 2024   | [Verify Here](https://verification.givemycertificate.com/v/aa07bb44-a23d-4425-8694-b9b8e8145634)          | - Presented a platform for people having speech disorders.    |
+
 ### Issued by SKITM and UpGrad
 | No. | Certificate Name                    | Issue Date | Verification Link                           | Key Learnings                                                     |
 |-----|-------------------------------------|------------|--------------------------------------------|-------------------------------------------------------------------|
